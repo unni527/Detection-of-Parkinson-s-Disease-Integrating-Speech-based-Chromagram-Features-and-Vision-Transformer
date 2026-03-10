@@ -80,6 +80,17 @@ Linear(in_features → 256) → ReLU → Dropout(0.4) → Linear(256 → 1) → 
 
 ---
 
+## 📄 Publication
+
+This project is based on peer-reviewed research published in **IEEE**.
+
+> **Detection of Parkinson's Disease Integrating Speech-based Chromagram Features and Vision Transformer**  
+> Unnikrishnan Jayan, Dheeraj M, Poorna S S, Anuraj K, Ananthu A C  
+> *IEEE — January 2026*  
+> [🔗 View Paper](#) ← replace # with your IEEE paper link
+
+---
+
 ## 🗂️ Dataset
 
 **Italian Parkinson's Speech Dataset**
